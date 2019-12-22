@@ -5,29 +5,31 @@ theme: dark
 ---
 ## 팀원
 
-대표학생 : 김기조 -
+대표학생 : 김기조 - <https://k2j507.github.io/>
 
 * 조승현 - <https://pmcsh04.github.io>
 * 김수민 - <https://tnatna0801.github.io>
 * 김주희 - <https://juhui-ui.github.io>
-* 조윤혁 - <https://JoYunHyeok.github.io>
+* 조윤혁 - <https://joyunhyeok.github.io/JoWorld.github.io/>
 
 ## 목표
 
 * 김기조
-	* asdf
+	* 아두이노 공부
 
 * 조승현
-	* asdf
+	* 백준 알고리즘 문제
+	* 영어 회화
 
 * 김수민
 	* 백준 알고리즘
-	* django
-	* 영어
+	* 데이터베이스 복습
+	* 영어(회화, 토익)
 
 * 김주희
 	* 정보산업처리기사
 	* 중국어
 
 * 조윤혁
-	* asdf
+	* 백준 알고리즘 문제
+	* 영어 회화
