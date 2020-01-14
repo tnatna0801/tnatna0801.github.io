@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 19-20 동계 모각코 동아리
-theme: dark
+tag: 동계모각코
 ---
 ## 팀원
 
