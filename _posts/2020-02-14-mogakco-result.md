@@ -6,7 +6,9 @@ tag: 동계모각코
 ## 동계 모각코 후기
 
 ### 모각코 발표자료
-[모각코발표자료] (https://docs.google.com/presentation/d/13uyM9Hc59Pqc7amOYaHuPorrnMVCYZnmAowNrOIxYnY/edit#slide=id.g7daf8462dc_0_461)
+[모각코발표자료](https://docs.google.com/presentation/d/13uyM9Hc59Pqc7amOYaHuPorrnMVCYZnmAowNrOIxYnY/edit#slide=id.g7daf8462dc_0_461)
+
+![제목] (../MGC/1장.png)
 
 ### 회고록
 #### 김기조
