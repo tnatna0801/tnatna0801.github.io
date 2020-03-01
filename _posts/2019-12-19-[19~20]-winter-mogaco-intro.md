@@ -34,5 +34,5 @@ tag: 동계모각코
 	* 백준 알고리즘 문제
 	* 영어 회화
 
-## 회차 활동 사진
+## 회차 활동 후기
 <https://tnatna0801.github.io/archive.html?tag=%EB%8F%99%EA%B3%84%EB%AA%A8%EA%B0%81%EC%BD%94>
