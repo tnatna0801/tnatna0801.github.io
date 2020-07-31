@@ -7,9 +7,10 @@ tag: 2020_하계모각코
 # 1회차
 작성자: 조승현
 
----
 일자 : 2020년 07월 20일
+
 일시 : 19:00 ~ 22:00 (3시간)
+
 장소 : 각자 집
 
 <img src="https://user-images.githubusercontent.com/48935917/88608603-1781cb80-d0bd-11ea-8692-0f33099a7b3a.jpg" width="40%">
@@ -17,9 +18,8 @@ tag: 2020_하계모각코
 <img src="https://user-images.githubusercontent.com/48935917/88608699-59ab0d00-d0bd-11ea-839a-6f1eb642cb5b.jpg" width="40%">
 
 # 목표
-흔들리는 코딩속에서 일일목표
+## 흔들리는 코딩속에서 일일목표
 
----
 
 * 김기조
   * OP-TEE 환경 만들기
