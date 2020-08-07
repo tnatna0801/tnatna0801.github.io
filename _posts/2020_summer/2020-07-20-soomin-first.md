@@ -49,10 +49,10 @@ dispatch add -t luis -i "<app-id-for-home-automation-app>" -n "<name-of-home-aut
 5. deploy dispatch chatbot
 
 ### 결과
-![성공](./imgs/1_success.png)
+<img width="544" alt="1_success" src="https://user-images.githubusercontent.com/48270067/89640436-8398d680-d8ea-11ea-9961-1eeeeba1bdab.PNG">
 * QnA model만 서비스했을 때의 챗봇이다. 정상적으로 답을 준다.
 
-![실패](./imgs/1_error.png)
+<img width="534" alt="1_error" src="https://user-images.githubusercontent.com/48270067/89640683-0d48a400-d8eb-11ea-90a3-3620f55abbdb.PNG">
 * dipatch를 적용한 모습니다. 정상적으로 작동하지 않는 것을 확인할 수 있다. 어떤 부분에서 오류가 나는지 확인하기 위해 출력해보았다. 사용자의 입력을 분류를 못하고 바로 오류문을 띄워주는 것을 확인했다.
 
 * 다음번에 이부분을 바꾸면서 다른 기능도 추가해야겠다.

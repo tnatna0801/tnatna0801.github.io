@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 2020 하계 모각코 2회 회고록
+title: [개별] 2020 하계 모각코 2회 회고록
 aside:
   toc: true
 tag: 2020_하계모각코
@@ -13,9 +13,9 @@ tag: 2020_하계모각코
 * HEAP 구조 정리
 
 ## 결과
-![1](./2020_summer/imgs/2-1.jpg)
-![2](./2020_summer/imgs/2-2.jpg)
-![2](./2020_summer/imgs/2-3.jpg)
+![2-1](https://user-images.githubusercontent.com/48270067/89640421-7e3b8c00-d8ea-11ea-840d-c28a3361d0fb.jpg)
+![2-2](https://user-images.githubusercontent.com/48270067/89640427-80054f80-d8ea-11ea-860b-1a9b1a4a9cef.jpg)
+![2-3](https://user-images.githubusercontent.com/48270067/89640429-81367c80-d8ea-11ea-80fd-80f8d75a85ac.jpg)
 
 ## 회고
 
