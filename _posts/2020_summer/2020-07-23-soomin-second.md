@@ -1,6 +1,6 @@
 ---
 layout: article
-title: [개별] 2020 하계 모각코 2회 회고록
+title: 2020 하계 모각코 2회 회고록(개인)
 aside:
   toc: true
 tag: 2020_하계모각코
