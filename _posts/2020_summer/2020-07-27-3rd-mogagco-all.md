@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 흔들리는 코딩 속에서 3회차 모임(팀)
-tag: 2020_하계모각코
+tag: 2020_하계모각코_대표
 ---
 
 # 3회차
@@ -15,8 +15,7 @@ tag: 2020_하계모각코
 
 <img src="https://user-images.githubusercontent.com/59010218/89673278-0a68a600-d921-11ea-9ce4-d4c18726887a.PNG" width="40%">
 
-
-<img src="https://user-images.githubusercontent.com/59010218/89673556-895dde80-d921-11ea-9541-0bab49b090f4.jpg" width="40%")
+![모각코3회](https://user-images.githubusercontent.com/48270067/89703301-3f5a1480-d984-11ea-9493-a180e2ff06b9.jpg)
 
 
 # 목표
